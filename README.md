@@ -1,7 +1,4 @@
-# COMP261_A3
-COMP261 -- Algorithms and Data Structures at VUW
-
-Assignment 3 of COMP261 2021T1
+# Fourier transform
 
 The goal of this assignment is to write a program that implements the
 
